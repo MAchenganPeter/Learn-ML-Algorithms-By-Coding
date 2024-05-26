@@ -1,4 +1,4 @@
-# Learn-ML-algorithms-by-coding1
+# Learn-ML-Algorithms-By-Coding
 
 手刻機器學習演算法(簡易版決策樹、K-means、DBSCAN、Spectral Clustering、淺層類神經網路)
 
